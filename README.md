@@ -6,7 +6,7 @@ Mini Webdev Projects
 ### 2. Cat Photo App<br>
 HTML tags give a webpage its structure. HTML tags can add photos, buttons, and other elements to your webpage.
 <br>In this course, you'll learn the most common HTML tags by building your own cat photo app.
-![image](https://github.com/Karrmanbhatia/Web-Dev-MiniProjects/assets/77549255/83537264-61f5-4268-a6df-9b9697416805) 
+![image](https://github.com/Karrmanbhatia/Web-Dev-MiniProjects/assets/77549255/83537264-61f5-4268-a6df-9b9697416805) <br>
 ![image](https://github.com/Karrmanbhatia/Web-Dev-MiniProjects/assets/77549255/615f8f6e-8c9b-4873-b637-3eddbddd7258)
 ### 3. Parallax Wesite
 ![image](https://github.com/Karrmanbhatia/Web-Dev-MiniProjects/assets/77549255/475d27b7-deb5-4dcb-bca9-a5badab69aae)
